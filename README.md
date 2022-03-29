@@ -1,0 +1,2 @@
+# simple
+For studying JAVA
